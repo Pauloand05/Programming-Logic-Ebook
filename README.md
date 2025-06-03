@@ -16,6 +16,16 @@ This eBook uses video game themes to teach basic programming logic in a way that
 5. Practicing and Creating Mini Projects
 
 ---
+## 🎯 Prompts used for content creation
+
+To help create the content, I used AI prompts that guided the development of texts, examples, and chapter organization. Some of them:
+
+- Create a chapter on programming logic for beginners using simple language and gamer-oriented examples.
+- Explain the concept of variables with practical JavaScript examples using game analogies.
+- List 5 subtopics for a chapter on conditional structures, including simple examples and applications.
+- Describe the importance of programming logic in problem-solving using a game strategy narrative.
+- Generate code examples with step-by-step explanations to facilitate understanding of functions in programming.
+---
 
 ## 🧠 Who is this for?
 
