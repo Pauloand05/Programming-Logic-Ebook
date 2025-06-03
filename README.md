@@ -33,7 +33,7 @@ This project was written with the support of AI (ChatGPT), combining creative wr
 
 ## 📥 Download
 
-You can download the full eBook in PDF format [here](#) *(add link once available)*.
+You can download the full eBook in PDF format [here](https://github.com/Pauloand05/Programming-Logic-Ebook/blob/main/output/Ebook%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)
 
 ---
 
